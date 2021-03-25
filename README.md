@@ -1,2 +1,3 @@
 # covid19_data
-used BeautifulSoup to scrape COVID19 data from [Worldometer](Worldometers.com)
+Scraped COVID19 data from [Worldometer](Worldometers.com) using BeautifulSoup library
+The data is then added into Google Sheet using [gspread](https://gspread.readthedocs.io/en/latest/) API
