@@ -1,2 +1,2 @@
 # covid19_data
-use BeautifulSoup to scrape COVID19 data from Worldometer.com
+BeautifulSoup library used to scrape COVID19 data from Worldometer.com
