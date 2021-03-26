@@ -80,4 +80,8 @@ def US_Spider(url):
             'Projections']
     us_data_final = us_data.drop(cols, axis=1)
 
+<<<<<<< HEAD
     return us_data_final
+=======
+    return us_data_final
+>>>>>>> 008c401c8d1f18fac99076f51a70e6c1157b9da8
