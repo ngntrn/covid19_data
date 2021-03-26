@@ -4,4 +4,3 @@ This data is then added into Google Sheet using [gspread](https://gspread.readth
 
 
 
-[WebGL Globe](https://github.com/dataarts/webgl-globe)
